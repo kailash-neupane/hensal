@@ -1,0 +1,8 @@
+algorithm:
+
+1.Start
+2.Initialize the variables as sd,dd1,dd2,td and cd.
+3.define the function and method.
+4.for i=1-1000,count.
+5.print count.
+6.stop
